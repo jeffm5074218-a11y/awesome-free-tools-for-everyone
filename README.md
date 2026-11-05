@@ -73,6 +73,7 @@ Hand-picked by **[Metamorphosis](https://www.metamorphosis.garden)**, a free AI 
 - **[OrcaSlicer](https://github.com/SoftFever/OrcaSlicer)**: Free slicer for 3D printers, Bambu included.
 - **[FreeCAD](https://www.freecad.org)**: Design real parts and builds with exact measurements.
 - **[Tinkercad](https://www.tinkercad.com)**: The easiest way to start 3D design, right in your browser.
+- **[My Nine Games](https://myninegames.com/)**: Free browser maker for a personal 3×3 games collage with PNG export and share links.
 
 ## Everyday
 
