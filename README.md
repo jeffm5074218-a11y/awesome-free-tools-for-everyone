@@ -80,6 +80,7 @@ Hand-picked by **[Metamorphosis](https://www.metamorphosis.garden)**, a free AI 
 - **[7-Zip](https://www.7-zip.org)**: Opens and makes zip files and other archives.
 - **[Bitwarden](https://bitwarden.com)**: Free password manager that remembers all your logins.
 - **[Notepad++](https://notepad-plus-plus.org)**: A better notepad for writing and fixing code.
+- **[StagePeek](https://stagepeek.live)**: Interactive 2D seating charts and 3D concert stage-view simulator across 201 venues (free first seat preview with no login required).
 
 ## Free AI with no credit card (for builders)
 
